@@ -1,2 +1,2 @@
-__pycache__/
+appliances/*/**/__pycache__/
 *.pyc
